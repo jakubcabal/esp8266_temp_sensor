@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Get temp from DS18B20 and send data to thingspeak.com
--- AUTHOR: Jakub Cabal 
+-- AUTHOR: Jakub Cabal <jakubcabal@gmail.com>
 -- LICENCE: The MIT License (MIT)
 -- WEBSITE: https://github.com/jakubcabal/esp8266_temp_sensor
 --------------------------------------------------------------------------------
